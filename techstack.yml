@@ -1,7 +1,8 @@
 repo_name: reconsumeralization/ScottsAutoStocks
 report_id: a44de9a6e1ef5adec47cc94886fe4dea
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-09T17:04:19+00:00'
+timestamp: '2024-01-04T15:04:17+00:00'
 requested_by: reconsumeralization
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/reconsumeralization/ScottsAutoStocks
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,6 +27,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/reconsumeralization/ScottsAutoStocks
   detection_source: Repo Metadata
 - name: Pylint
   description: Source-code, bug and quality checker for the Python programming language
@@ -35,6 +38,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/4837/py.jpg
+  detection_source_url: https://github.com/reconsumeralization/ScottsAutoStocks/blob/master/requirements.txt
   detection_source: requirements.txt
   last_updated_by: reconsumeralization
   last_updated_on: 2023-05-29 13:00:13.000000000 Z
@@ -47,4 +51,5 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/reconsumeralization/ScottsAutoStocks
   detection_source: Repo Metadata
